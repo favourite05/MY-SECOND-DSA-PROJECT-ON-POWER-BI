@@ -25,4 +25,13 @@ In the initial phase of data cleaning and preparations,i perfomed the following 
 Data ,inspection,handling,missing variables,data cleaning and formatting.
 
 ### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data;
+   i. What is gender distriibution in the organisation? Distill to regions and departments.
+   ii. Show insights on ratings based on gender.
+   iii. Analyse the company's salary structure. identify if there is a gender pay gap.if there is,identify the department and regions that should be the focus of management.
+
+### Data Analysis
+This is wherer we include some basic line of codes used during analysis
+
+
 
